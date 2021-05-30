@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-This is my homepage recording the learning path.
+This is my homepage recording the learning path. It will also record the motivation and passion.
 
 ### Markdown
 
